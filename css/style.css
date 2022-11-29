@@ -1,0 +1,437 @@
+*{
+    box-sizing: border-box;
+}
+
+.aleft-content{
+    width: 100%;
+    min-height: 750px;
+    margin-top: 30px;
+    float: left;
+}
+
+.profile-info{
+    width: 95%;
+    min-height: 520px;
+    border-radius: 15px;
+    float: left;
+    background-color: #FF5900;
+}
+
+.name-surname{
+    width: 100%;
+    height: 35px;
+    margin-top: 20px;
+    font-size: 26px;
+    float: left;
+    text-align: center;
+    color: white;
+}
+
+.profile-portret{
+    width: 100%;
+    min-height: 200px;
+    margin-top: 15px;
+    float: left;
+    display: flex;
+    justify-content: center;
+}
+
+.profile-portret img{
+    width: 200px;
+    min-height: 200px;
+}
+
+.profile-about-me{
+    width: 90%;
+    min-height: 200px;
+    margin-top: 10px;
+    margin-left: 20px;
+    float: left;
+}
+
+.about-me{
+    width: 90%;
+    min-height: 100px;
+    margin-top: 10px;
+    margin-left: 20px;
+    float: left;
+}
+
+.about-me-1{
+    width: 100%;
+    min-height: 40px;
+    font-size: 16px;
+    float: left;
+    color: white;
+}
+
+.age-text-1{
+    width: 35%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    float: left;
+}
+
+.age-text-2{
+    width: 65%;
+    height: 40px;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    float: left;
+}
+
+.about-me-2{
+    width: 100%;
+    min-height: 40px;
+    font-size: 16px;
+    float: left;
+    color: white;
+}
+
+.profession-text-1{
+    width: 35%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    float: left;
+}
+
+.profession-text-2{
+    width: 65%;
+    height: 40px;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    float: left;
+}
+
+.about-me-3{
+    width: 100%;
+    min-height: 40px;
+    font-size: 16px;
+    float: left;
+    color: white;
+}
+
+.status-text-1{
+    width: 35%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    float: left;
+}
+
+.status-text-2{
+    width: 55%;
+    height: 40px;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    float: left;
+}
+
+.about-me-4{
+    width: 100%;
+    min-height: 40px;
+    padding-top: 5px;
+    font-size: 16px;
+    float: left;
+    color: white;
+}
+
+.mic-status-text-1{
+    width: 35%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    float: left;
+}
+
+.mic-status-text-2{
+    width: 65%;
+    height: 40px;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    float: left;
+}
+
+.about-me-5{
+    width: 100%;
+    min-height: 40px;
+    padding-top: 15px;
+    font-size: 16px;
+    float: left;
+    color: white;
+}
+
+.technology-skills-text-1{
+    width: 35%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    float: left;
+}
+
+.technology-skills-text-2{
+    width: 65%;
+    height: 40px;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    float: left;
+}
+
+.quote{
+    width: 95%;
+    min-height: 170px;
+    margin-top: 10px;
+    border-radius: 15px;
+    float: left;
+    background-color: #F7F0EA;
+}
+
+.quote-icon{
+    width: 40px;
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 10px;
+    float: left;
+    color: #FF5900;
+}
+
+.quote-text{
+    width: 300px;
+    min-height: 40px;
+    margin-top: 15px;
+    font-size: 16px;
+    float: left;
+}
+
+.personality{
+    width: 95%;
+    min-height: 100px;
+    margin-top: 10px;
+    border-radius: 15px;
+    float: left;
+    background-color: #F7F0EA;
+}
+
+.personality-text{
+    width: 90%;
+    min-height: 30px;
+    font-size: 26px;
+    margin: 10px 0px 0px 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
+    color: #FF5900;
+}
+
+.personality-info-1{
+    width: 125px;
+    min-height: 35px;
+    margin: 10px 0px 0px 15px;
+    border-radius: 20px;
+    font-size: 20px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FF5900;
+    color: white;
+}
+
+.personality-info-2{
+    width: 125px;
+    min-height: 35px;
+    margin: 10px 0px 0px 10px;
+    border-radius: 20px;
+    font-size: 20px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FF5900;
+    color: white;
+}
+
+
+.aright-content{
+    width: 100%;
+    min-height: 810px;
+    margin-top: 30px;
+    float: left;
+}
+
+.about-him-her{
+    width: 100%;
+    min-height: 140px;
+    border-radius: 15px;
+    float: left;
+    background-color: rgb(250, 164, 118);
+}
+
+.about-him-her-text{
+    width: 90%;
+    min-height: 30px;
+    font-size: 24px;
+    margin: 10px 0px 0px 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
+    color: #FF5900;
+}
+
+.about-him-her-text-1{
+    width: 90%;
+    min-height: 40px;
+    margin-left: 15px;
+    font-size: 15px;
+    float: left;
+}
+
+
+
+.goals{
+    width: 100%;
+    min-height: 140px;
+    margin-top: 15px;
+    border-radius: 15px;
+    float: left;
+    background-color: #F7F0EA;
+}
+
+.goals-icon{
+    width: 30px;
+    height: 30px;
+    margin: 10px 0px 0px 15px;
+    float: left;
+    color: #FF5900;
+}
+
+.goals-icon-text{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 5px;
+    font-size: 20px;
+    float: left;
+    color: #FF5900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.goals-text{
+    width: 100%;
+    min-height: 40px;
+    float: left;
+}
+
+
+
+
+.habits{
+    width: 100%;
+    min-height: 140px;
+    margin-top: 15px;
+    border-radius: 15px;
+    float: left;
+    background-color: #F7F0EA;
+}
+
+.habits-icon{
+    width: 30px;
+    height: 30px;
+    margin: 10px 0px 0px 15px;
+    float: left;
+    color: #FF5900;
+}
+
+.habits-icon-text{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 5px;
+    font-size: 20px;
+    float: left;
+    color: #FF5900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.habits-text{
+    width: 100%;
+    min-height: 40px;
+    float: left;
+}
+
+
+
+.skills{
+    width: 100%;
+    min-height: 140px;
+    margin-top: 15px;
+    border-radius: 15px;
+    float: left;
+    background-color: #F7F0EA;
+}
+
+.skills-icon{
+    width: 30px;
+    height: 30px;
+    margin: 10px 0px 0px 15px;
+    float: left;
+    color: #FF5900;
+}
+
+.skills-icon-text{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 5px;
+    font-size: 20px;
+    float: left;
+    color: #FF5900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.skills-text{
+    width: 100%;
+    min-height: 40px;
+    float: left;
+}
+
+
+
+.frustrations{
+    width: 100%;
+    min-height: 167px;
+    margin-top: 15px;
+    border-radius: 15px;
+    float: left;
+    background-color: #F7F0EA;
+}
+
+.frustrations-icon{
+    width: 30px;
+    height: 30px;
+    margin: 10px 0px 0px 15px;
+    float: left;
+    color: #FF5900;
+}
+
+.frustrations-icon-text{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 5px;
+    font-size: 20px;
+    float: left;
+    color: #FF5900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.frustrations-text{
+    width: 100%;
+    min-height: 40px;
+    float: left;
+}
