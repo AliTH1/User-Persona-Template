@@ -435,3 +435,24 @@
     min-height: 40px;
     float: left;
 }
+
+
+
+@media only screen and (max-width: 990px){
+    .aleft-content, .aright-content, .profile-info
+    , .quote, .personality, .personality-text{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .about-me{
+        width: 60%;
+    }
+
+    .age-text-2, .profession-text-2, .status-text-2
+    , .mic-status-text-2, .technology-skills-text-2{
+        padding-left: 75px;
+    }
+}
