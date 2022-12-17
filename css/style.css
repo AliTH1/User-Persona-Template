@@ -11,7 +11,7 @@
 
 .profile-info{
     width: 95%;
-    min-height: 520px;
+    min-height: 500px;
     border-radius: 15px;
     float: left;
     background-color: #FF5900;
@@ -132,15 +132,6 @@
     float: left;
 }
 
-.about-me-4{
-    width: 100%;
-    min-height: 40px;
-    padding-top: 5px;
-    font-size: 16px;
-    float: left;
-    color: white;
-}
-
 .mic-status-text-1{
     width: 35%;
     height: 40px;
@@ -158,7 +149,7 @@
     float: left;
 }
 
-.about-me-5{
+.about-me-4{
     width: 100%;
     min-height: 40px;
     padding-top: 15px;
@@ -330,7 +321,7 @@
 
 
 
-.habits{
+.hobbies{
     width: 100%;
     min-height: 140px;
     margin-top: 15px;
@@ -339,7 +330,7 @@
     background-color: #F7F0EA;
 }
 
-.habits-icon{
+.hobbies-icon{
     width: 30px;
     height: 30px;
     margin: 10px 0px 0px 15px;
@@ -347,7 +338,7 @@
     color: #FF5900;
 }
 
-.habits-icon-text{
+.hobbies-icon-text{
     width: 30px;
     height: 30px;
     margin-top: 10px;
@@ -358,7 +349,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.habits-text{
+.hobbies-text{
     width: 100%;
     min-height: 40px;
     float: left;
@@ -402,7 +393,7 @@
 
 
 
-.frustrations{
+.expectations{
     width: 100%;
     min-height: 167px;
     margin-top: 15px;
@@ -411,7 +402,7 @@
     background-color: #F7F0EA;
 }
 
-.frustrations-icon{
+.expectations-icon{
     width: 30px;
     height: 30px;
     margin: 10px 0px 0px 15px;
@@ -419,7 +410,7 @@
     color: #FF5900;
 }
 
-.frustrations-icon-text{
+.expectations-icon-text{
     width: 30px;
     height: 30px;
     margin-top: 10px;
@@ -430,7 +421,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.frustrations-text{
+.expectations-text{
     width: 100%;
     min-height: 40px;
     float: left;
