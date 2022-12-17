@@ -175,6 +175,36 @@
     float: left;
 }
 
+.about-me-5{
+    width: 100%;
+    min-height: 40px;
+    padding-top: 15px;
+    font-size: 16px;
+    float: left;
+    color: white;
+}
+
+.contact-info-text-1{
+    width: 35%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    float: left;
+}
+
+.contact-info-text-2{
+    width: 65%;
+    height: 40px;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    float: left;
+}
+
+.contact-info-text-2 a{
+    color: white;
+}
+
 .quote{
     width: 95%;
     min-height: 170px;
